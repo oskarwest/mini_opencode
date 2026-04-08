@@ -1,0 +1,7 @@
+api_base_url: https://lmstudiomacmini.gse.com.co:2443/v1
+default_model: qwen/qwen3-coder-30b
+temperature: 0.7
+max_tool_iterations: 10
+command_timeout_seconds: 30
+workspace_dir: ./workspace
+log_file: ./logs/chat.log
